@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(181,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(163,20): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(160): message : во время компиляции функции-члена класс шаблон "int MyVector<int>::swap(int,int)"
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(205): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyVector<int>::swap(int,int)"
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(178): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyVector<int>"
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(163,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(165,20): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(165,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(141,14): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(137): message : во время компиляции функции-члена класс шаблон "int MyVector<int>::erase(int)"
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(195): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyVector<int>::erase(int)"
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(141,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(41,9): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(40): message : во время компиляции функции-члена класс шаблон "int MyVector<int>::resize(int,tpl)"
+          with
+          [
+              tpl=int
+          ]
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(201): message : выполняется компиляция ссылки на экземпляр шаблон функции "int MyVector<int>::resize(int,tpl)"
+          with
+          [
+              tpl=int
+          ]
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(44,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(50,14): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(53,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(32,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(30): message : во время компиляции функции-члена класс шаблон "tpl MyVector<tpl>::at(int)"
+          with
+          [
+              tpl=int
+          ]
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(190): message : выполняется компиляция ссылки на экземпляр шаблон функции "tpl MyVector<tpl>::at(int)"
+          with
+          [
+              tpl=int
+          ]
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(32,2): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\atosy\source\repos\A24Vector\A24Vector\main.cpp(64): warning C4715: MyVector<int>::resize: значение возвращается не при всех путях выполнения
+  A24Vector.vcxproj -> C:\Users\atosy\source\repos\A24Vector\Debug\A24Vector.exe
